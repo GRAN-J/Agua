@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Agua</string>
+    <string name="metros_consumidos">Metros consumidos</string>
+    <string name="valor_agua">Valor Agua</string>
+    <string name="valor_aseo">Valor Aseo</string>
+    <string name="metros_local_1">metros Local 1</string>
+    <string name="metros_local_2">metros Local 2</string>
+    <string name="metros_local_3">metros Local 3</string>
+    <string name="metros_local_4">metros Local 4</string>
+    <string name="calcular">Calcular</string>
+</resources>
